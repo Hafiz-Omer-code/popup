@@ -1,5 +1,4 @@
-# popup
-Pop-Up Submitted Notification
+# Pop-Up Submitted Notification
 A simple, animated pop-up notification that appears after a user submits a form or performs a specific action. This notification provides a visually appealing confirmation message using a smooth transition and closing animation. Perfect for web applications that need a minimalist and modern confirmation prompt.
 
 
